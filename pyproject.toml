@@ -1,12 +1,11 @@
 [tool.poetry]
 name = "data_summariser"
 version = "0.1.0"
-description = ""
+description = "A library to quickly summarise a dataset"
 authors = ["Cyril <jaeycyril@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-pendulum = "^1.4"
 pandas = "^1.2.0"
 pytest-cov = "^2.10.1"
 
